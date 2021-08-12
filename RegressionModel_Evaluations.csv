@@ -1,0 +1,4 @@
+Model,Accuracy (%)
+Logistic Regression Base,84.31
+Logistic Regression (RFECV),84.29
+Logistic Regression (GSCV),87.88
